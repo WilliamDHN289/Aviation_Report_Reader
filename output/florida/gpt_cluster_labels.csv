@@ -1,0 +1,176 @@
+cluster_id,cluster_label,theme_label,rationale
+0,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Preliminary Investigation Notification"",
+  ""theme_label"": ""Investigation Process"",
+  ""rationale"": ""The narratives consistently describe the initiation of NTSB investigations with preliminary notifications, indicating a focus on the procedural aspect of aviation safety investigations.""
+}
+```"
+1,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Helicopter Yaw Control Loss"",
+  ""theme_label"": ""Rotorcraft Control Anomalies"",
+  ""rationale"": ""The narratives consistently describe incidents involving loss of yaw control in helicopters, often leading to hard landings or dynamic rollovers, indicating a recurring issue with maintaining directional stability.""
+}
+```"
+2,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""terrain collision during VFR conditions"",
+  ""theme_label"": ""loss of situational awareness"",
+  ""rationale"": ""The sample narratives indicate multiple incidents where aircraft collided with terrain or initiated incorrect maneuvers, suggesting a recurring issue with pilots losing situational awareness during visual flight conditions.""
+}
+```"
+3,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""gyroplane loss of control during takeoff and landing"",
+  ""theme_label"": ""rotorcraft handling and control issues"",
+  ""rationale"": ""The incidents involve gyroplanes experiencing loss of control during critical phases of flight, specifically takeoff and landing, often resulting in substantial damage due to improper handling or environmental factors like wind.""
+}
+```"
+4,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Birdstrike During Flight"",
+  ""theme_label"": ""Wildlife Hazards"",
+  ""rationale"": ""The incidents consistently involve aircraft sustaining damage due to birdstrikes during various phases of flight, highlighting the operational risk posed by wildlife.""
+}
+```"
+5,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Convective Turbulence During Descent"",
+  ""theme_label"": ""Weather-Induced In-Flight Injuries"",
+  ""rationale"": ""The narratives consistently describe incidents of aircraft encountering convective turbulence during descent phases, leading to injuries among passengers and crew.""
+}
+```"
+6,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Nose Gear Dig-In During Hard Landing"",
+  ""theme_label"": ""Landing Technique and Control Issues"",
+  ""rationale"": ""The incidents consistently involve hard landings where the nose gear digs into the runway, often due to improper landing technique or control issues during flare or in gusty conditions.""
+}
+```"
+7,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""glider tow release issues"",
+  ""theme_label"": ""inadequate tow procedures"",
+  ""rationale"": ""The narratives consistently describe incidents involving gliders releasing from tow at inappropriate altitudes or due to mechanical issues, leading to loss of control or insufficient lift.""
+}
+```"
+8,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Amphibious Aircraft Gear Configuration Errors"",
+  ""theme_label"": ""Distraction-Induced Gear Configuration Mistakes"",
+  ""rationale"": ""The incidents involve amphibious aircraft where pilots or instructors failed to configure landing gear correctly due to distractions, leading to improper landings on water or runways.""
+}
+```"
+9,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""landing gear collapse during landing roll"",
+  ""theme_label"": ""landing gear structural failure"",
+  ""rationale"": ""The narratives consistently describe incidents where the landing gear collapses during the landing roll, indicating a recurring issue with landing gear structural integrity or mechanical failure.""
+}
+```"
+10,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Engine Power Loss and Fire/Smoke Events"",
+  ""theme_label"": ""Engine Malfunctions and Failures"",
+  ""rationale"": ""The narratives consistently describe incidents involving engine power loss, both partial and total, as well as fire/smoke events, indicating a pattern of engine-related malfunctions and failures.""
+}
+```"
+11,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Engine Power Loss Due to Fuel Issues"",
+  ""theme_label"": ""Fuel Management and Contamination"",
+  ""rationale"": ""The incidents consistently involve engine power loss linked to fuel-related issues, including contamination, exhaustion, and undetermined causes, highlighting a need for improved fuel management practices.""
+}
+```"
+12,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""taxiway collision and obstruction avoidance failure"",
+  ""theme_label"": ""ground operation misjudgment"",
+  ""rationale"": ""The incidents involve aircraft collisions or near-collisions during taxi operations, often due to misjudgment of distances or failure to account for obstructions like other aircraft, vehicles, or prop wash.""
+}
+```"
+13,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""flight control system malfunction during landing"",
+  ""theme_label"": ""mechanical failure"",
+  ""rationale"": ""The narratives consistently describe incidents involving flight control system malfunctions, particularly during landing phases, leading to loss of control and accidents.""
+}
+```"
+14,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Engine Power Loss During Instructional Flights"",
+  ""theme_label"": ""Engine Mechanical Failure"",
+  ""rationale"": ""The narratives consistently describe incidents of total engine power loss during instructional flights, often following maintenance or prolonged flight, indicating a pattern of mechanical failure impacting training operations.""
+}
+```"
+15,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""crosswind landing control issues"",
+  ""theme_label"": ""environmental conditions affecting landing"",
+  ""rationale"": ""The narratives consistently describe incidents where pilots, often students, struggled with maintaining control during landings in crosswind conditions, leading to loss of control on the ground.""
+}
+```"
+16,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Inadequate Takeoff Airspeed Management"",
+  ""theme_label"": ""Takeoff Performance Misjudgment"",
+  ""rationale"": ""The narratives consistently describe incidents where pilots failed to achieve sufficient airspeed during takeoff, leading to runway overruns or collisions, indicating a pattern of misjudging takeoff performance requirements.""
+}
+```"
+17,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""VFR into IMC during night operations"",
+  ""theme_label"": ""Inadequate night flight planning and execution"",
+  ""rationale"": ""The incidents involve pilots operating under visual flight rules at night, encountering adverse conditions such as darkness or instrument meteorological conditions, leading to loss of control or controlled flight into terrain.""
+}
+```"
+18,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Low Altitude Stall/Spin During Initial Climb"",
+  ""theme_label"": ""Inadequate Climb Performance Management"",
+  ""rationale"": ""The incidents involve aircraft entering a stall or spin at low altitude during or shortly after takeoff, indicating a common issue with managing climb performance and maintaining adequate airspeed.""
+}
+```"
+19,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Excessive Pitch Leading to Stall"",
+  ""theme_label"": ""Loss of Control Due to Improper Pitch Management"",
+  ""rationale"": ""The incidents involve pilots excessively pitching up during takeoff or flight, leading to aerodynamic stalls and loss of control, highlighting a recurring issue with pitch management.""
+}
+```"
+20,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""inadequate airspeed management during training"",
+  ""theme_label"": ""training-related loss of control"",
+  ""rationale"": ""The incidents involve student pilots and instructors where inadequate airspeed management during training flights led to aerodynamic stalls or loss of control, highlighting a recurrent issue in flight training scenarios.""
+}
+```"
+21,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""abrupt maneuver during taxi or flight"",
+  ""theme_label"": ""in-flight or ground control issues"",
+  ""rationale"": ""The sample narratives describe incidents involving abrupt maneuvers either during taxi or in-flight, leading to loss of control or sudden stops, indicating issues with maintaining smooth control during critical phases of operation.""
+}
+```"
+22,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Brake System Failure During Landing Roll"",
+  ""theme_label"": ""Landing Gear and Brake System Malfunctions"",
+  ""rationale"": ""The narratives consistently describe incidents where aircraft experienced brake system failures during the landing roll, leading to runway excursions or loss of control on the ground.""
+}
+```"
+23,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Tailwheel Directional Control Loss During Landing"",
+  ""theme_label"": ""Crosswind and Tailwheel Handling Challenges"",
+  ""rationale"": ""The incidents involve tailwheel-equipped aircraft experiencing loss of directional control during landing or takeoff, often exacerbated by crosswind conditions or mechanical issues with the tailwheel.""
+}
+```"
+24,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""wind-induced control loss during ground operations"",
+  ""theme_label"": ""environmental factors affecting control"",
+  ""rationale"": ""The incidents consistently involve loss of control during ground operations, often attributed to wind conditions such as gusts or turbulence, impacting aircraft handling.""
+}
+```"
