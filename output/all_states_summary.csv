@@ -1,0 +1,6 @@
+total_records,clustered_records,noise_records,noise_rate,clusters,state
+493,427,66,0.1339,46,Alaska
+600,513,87,0.145,24,California
+557,456,101,0.1813,25,Florida
+84,76,8,0.0952,9,Kansas
+156,142,14,0.0897,14,Oregon
