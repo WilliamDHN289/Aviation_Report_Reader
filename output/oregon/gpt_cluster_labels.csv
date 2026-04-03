@@ -1,0 +1,99 @@
+cluster_id,cluster_label,theme_label,rationale
+0,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Loss of Control During Personal Flight"",
+  ""theme_label"": ""Inadequate Flight Preparation or Execution"",
+  ""rationale"": ""The sample narratives consistently describe accidents involving personal flights under Part 91, where aircraft sustained substantial damage or resulted in fatalities, indicating a pattern of loss of control potentially due to inadequate flight preparation or execution.""
+}
+```"
+1,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""UAS Software-Induced Power Loss"",
+  ""theme_label"": ""Software Integration Failures"",
+  ""rationale"": ""The incidents involve unmanned aircraft systems (UAS) experiencing total engine power loss during test flights, often linked to software upgrades or testing scenarios, indicating a pattern of software-related failures affecting power systems.""
+}
+```"
+2,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""low-altitude obstacle collision during external load operations"",
+  ""theme_label"": ""inadequate obstacle clearance in rotorcraft operations"",
+  ""rationale"": ""The incidents involve helicopters performing low-altitude operations, such as logging and agricultural applications, where pilots failed to maintain adequate clearance from obstacles like trees and powerlines, leading to collisions or forced landings.""
+}
+```"
+3,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""glider loss of lift and control"",
+  ""theme_label"": ""aerodynamic performance issues"",
+  ""rationale"": ""The incidents involve gliders experiencing loss of lift or control due to insufficient altitude, unexpected sink rates, or aerodynamic stalls, leading to off-airport landings or crashes.""
+}
+```"
+4,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Bounced Landing Recovery Mismanagement"",
+  ""theme_label"": ""Landing Technique Deficiency"",
+  ""rationale"": ""The incidents consistently involve pilots mismanaging recovery from bounced landings, leading to substantial aircraft damage, indicating a deficiency in landing technique and recovery skills.""
+}
+```"
+5,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""VFR into IMC and Engine Power Loss"",
+  ""theme_label"": ""Inadequate Pre-flight Planning and Fuel Management"",
+  ""rationale"": ""The incidents involve pilots encountering instrument meteorological conditions without proper ratings and experiencing engine power loss, indicating issues with pre-flight planning and fuel management.""
+}
+```"
+6,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""tailwheel directional control loss during ground operations"",
+  ""theme_label"": ""tailwheel aircraft ground handling challenges"",
+  ""rationale"": ""The incidents involve tailwheel-equipped aircraft experiencing loss of directional control during ground operations, leading to runway excursions and collisions with obstacles.""
+}
+```"
+7,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Tailwheel Ground Loop and Landing Gear Failures"",
+  ""theme_label"": ""Landing Gear and Ground Control Issues"",
+  ""rationale"": ""The incidents involve tailwheel-equipped aircraft experiencing ground loops or landing gear failures during landing or takeoff, highlighting issues with ground control and landing gear integrity.""
+}
+```"
+8,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""tailwheel directional control loss during landing"",
+  ""theme_label"": ""tailwheel handling challenges"",
+  ""rationale"": ""The incidents consistently involve loss of directional control in tailwheel-equipped aircraft during landing, often resulting in ground loops or runway excursions.""
+}
+```"
+9,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Directional Control Loss During Landing Roll"",
+  ""theme_label"": ""Landing Phase Control Issues"",
+  ""rationale"": ""The narratives consistently describe incidents where pilots lost directional control during the landing roll, often due to crosswinds or improper speed management, leading to runway excursions or ground collisions.""
+}
+```"
+10,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Tailwheel Aircraft Nose Over on Soft Terrain"",
+  ""theme_label"": ""Tailwheel Aircraft Ground Handling Challenges"",
+  ""rationale"": ""The incidents involve tailwheel-equipped aircraft experiencing nose-over events during takeoff or landing on soft or uneven terrain, highlighting challenges in ground handling specific to tailwheel configurations.""
+}
+```"
+11,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Soft Surface Landing Induced Nosedown"",
+  ""theme_label"": ""Inadequate Surface Assessment"",
+  ""rationale"": ""The incidents involve aircraft nosing over or landing gear collapsing due to landing on soft or unsuitable surfaces, indicating a failure to adequately assess landing surface conditions.""
+}
+```"
+12,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""tailwheel ground loop due to wind gust"",
+  ""theme_label"": ""wind-induced ground control loss"",
+  ""rationale"": ""The incidents consistently involve tailwheel-equipped aircraft losing control during landing or taxiing due to wind gusts, resulting in ground loops or nosing over.""
+}
+```"
+13,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""crosswind landing control loss"",
+  ""theme_label"": ""adverse weather impact on landing"",
+  ""rationale"": ""The narratives consistently describe incidents where pilots lost control during landing due to unexpected crosswind conditions, highlighting the challenge of managing aircraft stability in adverse weather.""
+}
+```"
