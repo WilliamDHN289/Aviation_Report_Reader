@@ -1,0 +1,64 @@
+cluster_id,cluster_label,theme_label,rationale
+0,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Inadequate Climb Performance"",
+  ""theme_label"": ""Aircraft Performance Limitations"",
+  ""rationale"": ""The sample narratives consistently describe accidents involving aircraft struggling to gain or maintain altitude, indicating a common issue with climb performance.""
+}
+```"
+1,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""fuel mismanagement leading to power loss"",
+  ""theme_label"": ""fuel management deficiencies"",
+  ""rationale"": ""The narratives consistently describe incidents where improper fuel management, such as misjudging fuel quantity or obstructing engine components, led to partial or complete engine power loss.""
+}
+```"
+2,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""engine power loss during critical flight phase"",
+  ""theme_label"": ""engine reliability issues"",
+  ""rationale"": ""The narratives consistently describe incidents where aircraft experienced engine power loss or stumbles during critical phases of flight, such as takeoff or landing, leading to forced landings or collisions.""
+}
+```"
+3,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""helicopter collision with obstacles during low-altitude operations"",
+  ""theme_label"": ""obstacle collision during specialized helicopter operations"",
+  ""rationale"": ""The incidents involve helicopters colliding with obstacles such as power lines, trees, and birds during low-altitude operations, including agricultural, external load, and medical flights, highlighting the risks associated with obstacle awareness and avoidance in these specialized operations.""
+}
+```"
+4,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""Inadequate Airspeed Management Leading to Stall"",
+  ""theme_label"": ""Loss of Control Due to Airspeed Mismanagement"",
+  ""rationale"": ""The narratives consistently describe scenarios where pilots failed to maintain adequate airspeed during critical phases of flight, such as takeoff or landing, resulting in aerodynamic stalls and loss of control.""
+}
+```"
+5,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""student pilot takeoff directional control issues"",
+  ""theme_label"": ""inadequate takeoff training and preparation"",
+  ""rationale"": ""The incidents involve student pilots experiencing directional control issues during takeoff, indicating a need for improved training and preparation in handling aircraft during this critical phase of flight.""
+}
+```"
+6,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""rudder pedal interference during ground operations"",
+  ""theme_label"": ""control surface interference"",
+  ""rationale"": ""The incidents involve loss of control on the ground due to rudder pedal interference or malfunction, such as mechanical obstructions or improper use, leading to directional control issues during takeoff or landing.""
+}
+```"
+7,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""inadequate preflight and taxi clearance checks"",
+  ""theme_label"": ""ground collision and clearance oversight"",
+  ""rationale"": ""The incidents involve failures in preflight checks and inadequate clearance checks during taxi, leading to ground collisions and near-miss situations.""
+}
+```"
+8,PARSE_ERROR,PARSE_ERROR,"```json
+{
+  ""cluster_label"": ""landing gear tire failure during landing"",
+  ""theme_label"": ""landing gear mechanical failure"",
+  ""rationale"": ""The incidents involve aircraft experiencing abnormal runway contact or control issues during landing due to tire or landing gear failures, leading to loss of control or ground loops.""
+}
+```"
